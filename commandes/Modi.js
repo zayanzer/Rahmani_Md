@@ -13,14 +13,14 @@ zokou({ nomCom: 'quote', categorie: 'Fun' }, async (dest, zk, commandeOptions) =
         .then((response) => response.json())
         .then(async (quote) => {
           repondre(`╔══════════════════════════╗
-║   Bmw-md               ║
+║   Rahmani_Md               ║
 ╚══════════════════════════╝
 
 🎬 Anime: ${quote.anime}
 👤 Character: ${quote.character}
 💬 Quote: ${quote.quote}
 
-Powered by Zokou-MD`);
+Powered by Rahmani-MD`);
         });
     } catch (e) {
       repondre('Erreur lors de la génération de la citation : ' + e.message);*/
@@ -36,14 +36,14 @@ const _0xdb13a5=_0x4f16;function _0x4f16(_0x3cd965,_0x3cf8f0){const _0x298aa0=_0
         .then((response) => response.json())
         .then(async (quote) => {
           repondre(`╔══════════════════════════╗
-║   Bmw-md               ║
+║  Rahmani_Md                   ║
 ╚══════════════════════════╝
 
 🎬 Anime: ${quote.anime}
 👤 Character: ${quote.character}d
 💬 Quote: ${quote.quote}
 
-Powered by Bmw-MD`);
+Powered by Rahmani-MD`);
         });
     } catch (e) {
       repondre('Erreur lors de la génération de la citation : ' + e.message);
