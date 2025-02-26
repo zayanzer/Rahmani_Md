@@ -8,7 +8,7 @@
 
 </p>
 <p align="center"> 
-  <a href="https://whatsapp.com/channel/0029Vb0HIV2G3R3s2II4181g">
+  <a href="https://whatsapp.com/channel/0029VajweHxKQuJP6qnjLM31">
     <img alt=Support height="390" src="https://files.catbox.moe/aktbgo.jpg"> 
     </p>
  
@@ -16,17 +16,17 @@
  
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=THIS+IS+CRISS VMD+MADE+IN+TANZANIA" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=THIS+IS+RAHMAN+MD+MADE+IN+TANZANIA" alt="Typing SVG" /></a>
 
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-#### SETUP 
+#### SETUP  FORK 🌟
 
 
-[`FORK`](https://github.com/criss-vevo/CRISS-VMD/fork)
+[`FORK`](https://github.com/Qartde/Rahmani_Md/fork)
 
 
  
@@ -43,7 +43,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-#### DEPLOY TO HEROKU 
+#### DEPLOY TO HEROKU RAHMANI-TMD
 `If You Don't Have An Account On Heroku`
 
 <a align="center"><a href="https://signup.heroku.com">
@@ -51,25 +51,25 @@
 
 `If You Have a Heroku Account`
 
-<a align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/criss-vevo/CRISS-VMD/tree/main"> <img src="https://img.shields.io/badge/DEPLOY%20NOW-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<a align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Qartde/Rahmani_Md/tree/main"> <img src="https://img.shields.io/badge/DEPLOY%20NOW-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-**❖ FOR SUPPORT ❖**
+**❖ FOR SUPPORT RAHMANI-TMD ❖**
  
 Stay Connected With The Uatest Updates By
    <br>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
-<a href="https://whatsapp.com/channel/0029Vb0HIV2G3R3s2II4181g"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ᴡʜᴀᴛsᴀᴘᴘ%20ᴄʜᴀɴɴᴇʟ-red" alt="🔰 ᴊᴏɪɴ ᴍʏ ᴡʜᴀᴛsᴀᴘᴘ ɢʀᴏᴜᴘ ғᴏʀ ᴜᴘᴅᴀᴛᴇ 🔰" width="300"></a>
+<a href="https://whatsapp.com/channel/0029VajweHxKQuJP6qnjLM31"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ᴡʜᴀᴛsᴀᴘᴘ%20ᴄʜᴀɴɴᴇʟ-red" alt="🔰 ᴊᴏɪɴ ᴍʏ ᴡʜᴀᴛsᴀᴘᴘ ɢʀᴏᴜᴘ ғᴏʀ ᴜᴘᴅᴀᴛᴇ 🔰" width="300"></a>
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
-<a href="https://www.youtube.com/@criss-vevo"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ʏᴏᴜᴛᴜʙᴇ%20ᴄʜᴀɴɴᴇʟ-blue" alt="🔰 ᴊᴏɪɴ ᴍʏ ʏᴏᴜᴛᴜʙᴇ ғᴏʀ ᴜᴘᴅᴀᴛᴇ 🔰" width="300"></a>
+<a href="https://youtube.com/@timnasa-tmd?si=pnitcokiKJdhzhMA"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ʏᴏᴜᴛᴜʙᴇ%20ᴄʜᴀɴɴᴇʟ-blue" alt="🔰 ᴊᴏɪɴ ᴍʏ ʏᴏᴜᴛᴜʙᴇ ғᴏʀ ᴜᴘᴅᴀᴛᴇ 🔰" width="300"></a>
 
 
 
