@@ -33,36 +33,32 @@ zokou({ nomCom: "main", categorie: "All Groups" }, async (dest, zk, commandeOpti
 const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
-  let infoMsg =      `*CRISS VEVO SUPPORT* 
+  let infoMsg =      `*RAHMANI MD SUPPORT* 
 ❒───────────────────❒
 ╔══════════════════╗
 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 𝐋𝐈𝐍𝐊 𝐇𝐄𝐑𝐄
-https://whatsapp.com/channel/0029Vb0HIV2G3R3s2II4181g
+https://whatsapp.com/channel/0029VavShWD1iUxb6kjV6K2T
 ╚══════════════════╝
 ╔══════════════════╗
 𝐆𝐈𝐓𝐇𝐔𝐁 𝐑𝐄𝐏𝐎 𝐒𝐓𝐎𝐑𝐘 𝐋𝐈𝐍𝐊
-https://github.com/criss-vevo/CRISS-VMD
+https://github.com/Qartde/Rahmani_Md
 ╚══════════════════╝
 ╔══════════════════╗
 𝐒𝐄𝐒𝐒𝐈𝐎𝐍 𝐈𝐃 𝐒𝐈𝐓𝐄 𝐋𝐈𝐍𝐊
 https://criss-xbot-x15p.onrender.com/
 ╚══════════════════╝
-╔══════════════════╗
-𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊 𝐏𝐀𝐆𝐄 𝐋𝐈𝐍𝐊
-https://www.facebook.com/share/14rPTLXjb4/?mibextid=wwXIfr
+╔══════════════════
+𝐑𝐀𝐇𝐌𝐀𝐍𝐈 𝐌𝐃
 ╚══════════════════╝
 ╔══════════════════╗
 ☉︎𝐖𝐏-𝐌𝐄-𝐎𝐖𝐍𝐄𝐑®️
-https://wa.me/message/NY5RNQQH2DYTN1
+
 ╚══════════════════╝
 ╔══════════════════╗
-♬𝐘𝐎𝐔𝐓𝐔𝐁𝐄 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 𝐋𝐈𝐍𝐊♬👇
-https://www.youtube.com/@criss-vevo
-╚══════════════════╝\n
   `;
     
 let menuMsg = `
-  &     POWERED BY CRISS VEVO 
+  &     POWERED BY RAHMANI MD 
 ❒───────────────────❒`;
 
    var lien = mybotpic();
