@@ -34,17 +34,17 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-          *CRISS VEVO BOT INFO* 
+          *RAHMANI MD BOT INFO* 
 ❒───────────────────❒
 
 *GITHUB LINK*
->https://github.com/criss-vevo/CRISS-VMD
+>https://github.com/Qartde/Rahmani_Md
 
 *CONTACT OWNER*
-> https://wa.me/message/NY5RNQQH2DYTN1
+> https://wa.me/255693629079
 
 *WHATSAPP CHANNEL*
->https://whatsapp.com/channel/0029Vb0HIV2G3R3s2II4181g
+>https://whatsapp.com/channel/0029VavShWD1iUxb6kjV6K2T
 ⁠
 ╭───────────────────❒
  │❒⁠⁠⁠⁠ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
@@ -54,7 +54,7 @@ const date = moment().format('DD/MM/YYYY');
   `;
     
 let menuMsg = `
-         *POWERED BY CRISS VEVO*
+         *POWERED BY RAHMANI MD*
 
 ❒───────────────────❒`;
 
