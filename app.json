@@ -1,9 +1,9 @@
 {
-  "name":"CRISS VEVO",
-  "description":"Best whatsapp bot developed by criss vevo ",
+  "name":"𝐊𝐈𝐍𝐆 𝐑𝐀𝐇𝐌𝐀𝐍-𝐓𝐌𝐃",
+  "description":"Best whatsapp bot developed by 𝐑𝐀𝐇𝐌𝐀𝐍-𝐓𝐌𝐃 ",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://files.catbox.moe/a7p6tw.jpg",
-  "repository":"https://github.com/criss-vevo/CRISS-VMD",
+  "repository":"https://github.com/Qartde/Rahmani_Md",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -46,7 +46,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"CRISS VEVO",
+      "value":"RAHMAN-TMD",
       "required":false
 
     } ,
@@ -86,14 +86,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "Criss Vevo"
+    "value": "RAHMANI"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "255687068672"
+    "value": "255784766591"
   },
     "WARN_COUNT":
   {
