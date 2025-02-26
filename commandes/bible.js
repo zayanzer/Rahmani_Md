@@ -1,8 +1,8 @@
 /*
-Project Name : MALVIN XMD
-Creator      : Malvin King ( Mr Lord Malvin )
-Repo         : https//github.com/kingmalvn/MALVIN-XMD
-Support      : wa.me/263714757857
+Project Name : RAHMANI MD
+Creator      : Rahmani King ( RAHMANI MD )
+Repo         : https://github.com/Qartde/Rahmani_Md
+Support      : wa.me/255693629079
 */
 
 
