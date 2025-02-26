@@ -35,24 +35,23 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-         *CRISS VEVO INFO* 
+         *RAHMANI MD INFO* 
 ❒───────────────────❒
 
 *GITHUB LINK*
-> https://github.com/criss-vevo/CRISS-VMD
+> https://github.com/Qartde/Rahmani_Md
 
 *WHATSAPP CHANNEL*
-> https://whatsapp.com/channel/0029Vb0HIV2G3R3s2II4181g
-⁠
+> https://whatsapp.com/channel/0029VavShWD1iUxb6kjV6K2T
 ╭───────────────────❒
  │❒⁠⁠⁠⁠ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
  │❒⁠⁠⁠⁠ *DEV1* : *Criss Vevo*
- │❒⁠⁠⁠⁠ *DEV2* : *SIR CRISS VEVO*
+ │❒⁠⁠⁠⁠ *DEV2* : *SIR RAHMANI MD*
 ⁠⁠⁠⁠╰───────────────────❒
   `;
     
 let menuMsg = `
-         *POWERED BY CRISS VEVO*
+         *POWERED BY RAHMANI MD*
 
 ❒───────────────────❒`;
 
@@ -122,24 +121,24 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-   *BMW MD IMPORTANT INFO* 
+   *RAHMANI MD IMPORTANT INFO* 
 ❒───────────────────❒
 *GITHUB LINK*
-> https://github.com/ibrahimaitech/BMW-MD
+> https://github.com/Qartde/Rahmani_Md
 
 *WHATSAPP CHANNEL*
-> https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y
+> https://whatsapp.com/channel/0029VavShWD1iUxb6kjV6K2T
 
 *FOR MORE INFO TAP ON THE LINK BELOW*
-> https://github.com/IBRAHIM-TECH-AI/IBRAHIM-ADAMS-INFO⁠
+> 
 ╭───────────────────❒
 │❒⁠⁠⁠⁠ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-│❒⁠⁠⁠⁠ *DEV* : *Ibrahim Adams*
+│❒⁠⁠⁠⁠ *DEV* : *Rahmani Md*
 ⁠⁠⁠⁠╰───────────────────❒
   `;
     
 let menuMsg = `
-     𝑰𝑩𝑹𝑨𝑯𝑰𝑴 𝑨𝑫𝑨𝑴𝑺 𝑺𝑪𝑰𝑬𝑵𝑪𝑬
+     
 
 ❒────────────────────❒`;
 
