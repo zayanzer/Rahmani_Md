@@ -44,11 +44,11 @@ const date = moment().format('DD/MM/YYYY');
   https://criss-md-bot-qr.onrender.com/qr
  
  *BOT REPO*
-  https://github.com/criss-vevo/CRISS-VMD
+  https://github.com/Qartde/Rahmani_Md
  `;
     
 let menuMsg = `
-> POWERED BY CRISS VEVO 
+> POWERED BY RAHMANI MD 
 `;
 
    var lien = mybotpic();
@@ -117,24 +117,24 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-   *BMW MD IMPORTANT INFO* 
+   *RAHMANI MD IMPORTANT INFO* 
 ❒───────────────────❒
 *GITHUB LINK*
-> https://github.com/ibrahimaitech/BMW-MD
+> https://github.com/Qartde/Rahmani_Md
 
 *WHATSAPP CHANNEL*
-> https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y
+> https://whatsapp.com/channel/0029VavShWD1iUxb6kjV6K2T
 
 *FOR MORE INFO TAP ON THE LINK BELOW*
-> https://github.com/IBRAHIM-TECH-AI/IBRAHIM-ADAMS-INFO⁠
+> https://chat.whatsapp.com/D3dnvm4vsn9HafO6wkqnzF
 ╭───────────────────❒
 │❒⁠⁠⁠⁠ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-│❒⁠⁠⁠⁠ *DEV* : *Ibrahim Adams*
+│❒⁠⁠⁠⁠ *DEV* : *Rahmani Md*
 ⁠⁠⁠⁠╰───────────────────❒
   `;
     
 let menuMsg = `
-     𝑰𝑩𝑹𝑨𝑯𝑰𝑴 𝑨𝑫𝑨𝑴𝑺 𝑺𝑪𝑰𝑬𝑵𝑪𝑬
+     𝗥𝗔𝗛𝗠𝗔𝗡𝗜 𝗠𝗗 𝗕𝗢𝗧
 
 ❒────────────────────❒`;
 
