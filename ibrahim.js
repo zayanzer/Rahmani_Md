@@ -80,7 +80,7 @@ setTimeout(() => {
         const sockOptions = {
             version,
             logger: pino({ level: "silent" }),
-            browser: ['Bmw-Md', "safari", "1.0.0"],
+            browser: ['Rahmani-Md', "safari", "1.0.0"],
             printQRInTerminal: true,
             fireInitQueries: false,
             shouldSyncHistoryMessage: true,
@@ -131,7 +131,7 @@ function getCurrentDateTime() {
 setInterval(async () => {
     if (conf.AUTO_BIO === "yes") {
         const currentDateTime = getCurrentDateTime(); // Get the current date and time
-        const bioText = `CRISS VEVO is online!\n${currentDateTime}`; // Format the bio text
+        const bioText = `RAHMANI MD is online!\n${currentDateTime}`; // Format the bio text
         await zk.updateProfileStatus(bioText); // Update the bio
         console.log(`Updated Bio: ${bioText}`); // Log the updated bio
     }
@@ -146,7 +146,7 @@ setInterval(async () => {
 
     await zk.rejectCall(callId, callerId);
     await zk.sendMessage(callerId, {
-      text: "Am bmb md,, My owner is unavailable try again later"
+      text: "Am Rahmani md,, My owner is unavailable try again later"
     });
   }
 });
@@ -258,7 +258,7 @@ if (conf.AUTO_REACT_STATUS === "yes") {
             
             var dev = [dj, dj2,dj3,luffy].map((t) => t.replace(/[^0-9]/g) + "@s.whatsapp.net").includes(auteurMessage);
             function repondre(mes) { zk.sendMessage(origineMessage, { text: mes }, { quoted: ms }); }
-            console.log("\tCRISS VEVO");
+            console.log("\tRAHMANI MD");
             console.log("=========== written message===========");
             if (verifGroupe) {
                 console.log("message provenant du groupe : " + nomGroupe);
@@ -896,18 +896,18 @@ zk.ev.on('group-participants.update', async (group) => {
         zk.ev.on("connection.update", async (con) => {
             const { lastDisconnect, connection } = con;
             if (connection === "connecting") {
-                console.log("ℹ️ CRISS VEVO is connecting...");
+                console.log("ℹ️ RAHMANI MD is connecting...");
             }
             else if (connection === 'open') {
-                console.log("✅ CRISS VEVO Connected to WhatsApp! ☺️");
+                console.log("✅ RAHMANI MD Connected to WhatsApp! ☺️");
                 console.log("--");
                 await (0, baileys_1.delay)(200);
                 console.log("------");
                 await (0, baileys_1.delay)(300);
                 console.log("------------------/-----");
-                console.log("CRISS VEVO is Online 🕸\n\n");
+                console.log("RAHMANI MD is Online 🕸\n\n");
                 //chargement des commandes 
-                console.log("Loading CRISS VEVO Commands ...\n");
+                console.log("Loading RAHMANI MD Commands ...\n");
                 fs.readdirSync(__dirname + "/commandes").forEach((fichier) => {
                     if (path.extname(fichier).toLowerCase() == (".js")) {
                         try {
@@ -940,13 +940,13 @@ zk.ev.on('group-participants.update', async (group) => {
 
                 let cmsg =` ⁠⁠⁠⁠
 ╭─────────────━┈⊷ 
-│🌏 *CRISS VEVO CONNECTED*
+│🌏 *RAHMANI MD CONNECTED*
 ╰─────────────━┈⊷
 │💫 ᴘʀᴇғɪx: *[ ${prefixe} ]*
 │⭕ ᴍᴏᴅᴇ: *${md}*
 │
 │FOLLOW MY CHANNEL FOR UPDATES
-│https://whatsapp.com/channel/0029Vb0HIV2G3R3s2II4181g
+│
 ╰─────────────━┈⊷
 
                 
