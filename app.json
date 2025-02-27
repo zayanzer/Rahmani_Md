@@ -1,6 +1,6 @@
 {
-  "name":"𝐊𝐈𝐍𝐆 𝐑𝐀𝐇𝐌𝐀𝐍-𝐓𝐌𝐃",
-  "description":"Best whatsapp bot developed by 𝐑𝐀𝐇𝐌𝐀𝐍-𝐓𝐌𝐃 ",
+  "name":"𝐊𝐈𝐍𝐆 𝐑𝐀𝐇𝐌𝐀𝐍𝐈-𝐌𝐃",
+  "description":"Best whatsapp bot developed by 𝐑𝐀𝐇𝐌𝐀𝐍𝐈-𝐌𝐃 ",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://files.catbox.moe/aktbgo.jpg",
   "repository":"https://github.com/Qartde/Rahmani_Md",
@@ -46,7 +46,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"RAHMAN-TMD",
+      "value":"RAHMANI-MD",
       "required":false
 
     } ,
@@ -93,7 +93,7 @@
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "255784766591"
+    "value": "255693629079"
   },
     "WARN_COUNT":
   {
