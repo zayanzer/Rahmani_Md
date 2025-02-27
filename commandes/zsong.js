@@ -1,5 +1,5 @@
 
-const { ezra } = require("../fredi/ezra");
+const { ezra } = require("../rahmani/md");
 const axios = require('axios');
 const ytSearch = require('yt-search');
 
@@ -47,7 +47,7 @@ ezra({
       `https://api-rin-tohsaka.vercel.app/download/ytmp4?url=${encodeURIComponent(videoUrl)}`,
       `https://api.davidcyriltech.my.id/download/ytmp3?url=${encodeURIComponent(videoUrl)}`,
       `https://www.dark-yasiya-api.site/download/ytmp3?url=${encodeURIComponent(videoUrl)}`,
-      `https://api.giftedtech.web.id/api/download/dlmp3?url=${encodeURIComponent(videoUrl)}&apikey=gifted-md`,
+      `https://api.giftedtech.web.id/api/download/dlmp3?url=${encodeURIComponent(videoUrl)}&apikey=rahmani-md`,
       `https://api.dreaded.site/api/ytdl/audio?url=${encodeURIComponent(videoUrl)}`
     ];
 
