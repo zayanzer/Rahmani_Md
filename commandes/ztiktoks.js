@@ -1,10 +1,10 @@
-const { ezra } = require('../fredi/ezra');
+const { ezra } = require('../Rahmani/Md');
 const axios = require("axios");
 
 ezra({
   nomCom: "tiktoksearch",
   aliases: ["tiksearch", "tiktoklist"],
-  categorie: "Fledi-search",
+  categorie: "Rahmani-search",
   reaction: "📽️"
 }, async (dest, zk, commandeOptions) => {
   const { repondre, arg } = commandeOptions;
@@ -26,7 +26,7 @@ ezra({
     }
 
     // Construct TikTok search message
-    let searchMessage = `CRISS VEVO TIKTOK SEARCH\n\n`;
+    let searchMessage = `RAHMANI MD TIKTOK SEARCH\n\n`;
 
     // Loop through search results and construct track info with numbers
     searchData.forEach((track, index) => {
@@ -53,9 +53,9 @@ ezra({
           mentionedJid: [dest],
           externalAdReply: {
             showAdAttribution: true,
-            title: "CRISS VEVO TIKTOK SEARCH",
-            body: "Lumumba kwa Criss Vevo",
-            sourceUrl: "https://whatsapp.com/channel/0029Vb0HIV2G3R3s2II4181g",
+            title: "RAHMANI MD TIKTOK SEARCH",
+            body: "Rahmanikibore",
+            sourceUrl: "https://chat.whatsapp.com/D3dnvm4vsn9HafO6wkqnzF",
             mediaType: 1,
             renderLargerThumbnail: false,
           },
