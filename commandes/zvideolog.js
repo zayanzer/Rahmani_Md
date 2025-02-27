@@ -2,7 +2,7 @@
 // Non visible script 
 // Prepare yourself men don't disturb others
 
-const { ezra } = require("../fredi/ezra");
+const { ezra } = require("../rahmani/Md");
 const axios = require("axios");
 
 ezra({ nomCom: "videologo", categorie: "Fledi-logo", reaction: "🔖" }, async (dest, zk, commandeOptions) => {
@@ -28,10 +28,10 @@ D ☞ tiger 🐯 video logo
     const contextInfo = {
       mentionedJid: [ms.sender], // Mention the sender
       externalAdReply: {
-        title: "*CRISS VEVO*",
-        body: "Lumumba Kwa, CRISS VEVO",
-        thumbnailUrl: "https://files.catbox.moe/7irwqn.jpeg",
-        sourceUrl: "https://whatsapp.com/channel/0029Vb0HIV2G3R3s2II4181g",
+        title: "*RAHMANI MD*",
+        body: "Rahmani Md",
+        thumbnailUrl: "https://files.catbox.moe/aktbgo.jpg",
+        sourceUrl: "https://chat.whatsapp.com/D3dnvm4vsn9HafO6wkqnzF",
         mediaType: 1,
         renderLargerThumbnail: true,
       },
@@ -80,7 +80,7 @@ D ☞ tiger 🐯 video logo
           await zk.sendMessage(dest, {
             video: { url: logoUrl },
             mimetype: "video/mp4",
-            caption: `> *Downloaded by CRISS VEVO*`,
+            caption: `> *Downloaded by RAHMANI MD*`,
           }, { quoted: ms });
         }
       }
