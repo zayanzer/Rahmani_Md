@@ -3,7 +3,7 @@
   
 
 
-<p align="center">                                                 ༒𝐑𝐀𝐇𝐌𝐀𝐍-𝐓𝐌𝐃༒
+<p align="center">                                                 ༒𝐑𝐀𝐇𝐌𝐀𝐍𝐈-𝐌𝐃༒
   
 
 </p>
@@ -16,7 +16,7 @@
  
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=THIS+IS+RAHMAN+MD+MADE+IN+TANZANIA" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=𝐓𝐇𝐈𝐒+𝐈𝐒+𝐑𝐀𝐇𝐌𝐀𝐍𝐈+𝐌𝐃+𝐌𝐀𝐈𝐃𝐄+𝐈𝐍+𝐓𝐀𝐍𝐙𝐀𝐍𝐈𝐀" alt="Typing SVG" /></a>
 
 
 
@@ -43,7 +43,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-#### DEPLOY TO HEROKU RAHMANI-TMD
+#### DEPLOY TO HEROKU RAHMANI-MD
 `If You Don't Have An Account On Heroku`
 
 <a align="center"><a href="https://signup.heroku.com">
@@ -57,7 +57,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-**❖ FOR SUPPORT RAHMANI-TMD ❖**
+**❖ FOR SUPPORT RAHMANI-MD ❖**
  
 Stay Connected With The Uatest Updates By
    <br>
