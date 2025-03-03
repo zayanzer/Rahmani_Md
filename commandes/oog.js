@@ -28,10 +28,10 @@ zokou({ nomCom: "videologo", categorie: "modern-logo", reaction: "🧚" }, async
     const contextInfo = {
       mentionedJid: [ms.sender], // Mention the sender
       externalAdReply: {
-        title: "🔏ɴᴊᴀʙᴜʟᴏ ᴊʙ💬",
-        body: "Regards, 🔏ɴᴊᴀʙᴜʟᴏ ᴊʙ💬",
-        thumbnailUrl: "https://files.catbox.moe/aqaru9.jpg",
-        sourceUrl: "https://whatsapp.com/channel/0029VarYP5iAInPtfQ8fRb2T",
+        title: "🔏𝐑𝐀𝐇𝐌𝐀𝐍𝐈 𝐌𝐃💬",
+        body: "Regards, 🔏𝐑𝐀𝐇𝐌𝐀𝐍𝐈 𝐌𝐃💬",
+        thumbnailUrl: "https://files.catbox.moe/aktbgo.jpg",
+        sourceUrl: "https://chat.whatsapp.com/D3dnvm4vsn9HafO6wkqnzF",
         mediaType: 1,
         renderLargerThumbnail: true,
       },
@@ -80,7 +80,7 @@ zokou({ nomCom: "videologo", categorie: "modern-logo", reaction: "🧚" }, async
           await zk.sendMessage(dest, {
             video: { url: logoUrl },
             mimetype: "video/mp4",
-            caption: `*Downloaded by 🔏ɴᴊᴀʙᴜʟᴏ ᴊʙ💬*`,
+            caption: `*Downloaded by 🔏𝐑𝐀𝐇𝐌𝐀𝐍𝐈 𝐌𝐃💬*`,
           }, { quoted: ms });
         }
       }
