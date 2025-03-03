@@ -35,10 +35,6 @@
 [`PAIRING CODE`](https://rahmani-md-7xqe.onrender.com/)
  
 
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-
 #### DEPLOY TO HEROKU RAHMANI-MD
 `If You Don't Have An Account On Heroku`
 
