@@ -11,7 +11,7 @@ zokou({nomCom:"rahmani",reaction:"📡",categorie:"IA"},async(dest,zk,commandeOp
   const {repondre,ms,arg}=commandeOptions;
   
     if(!arg || !arg[0])
-    {return repondre("*ʜɪ ᴀᴍ ɴᴊᴀʙᴜʟᴏ ᴊʙ, ʜᴏᴡ ᴍᴀʏ ɪ ʜᴇʟᴘ ʏᴏᴜ")}
+    {return repondre("*𝙷𝙸 𝙰𝙼 𝚁𝙰𝙷𝙼𝙰𝙽𝙸 𝙼𝙳, 𝙷𝙾𝚆 𝙼𝙰𝚈 𝙸 𝙷𝙴𝙻𝙿 𝚈𝙾𝚄")}
     //var quest = arg.join(' ');
   try{
     
