@@ -46,7 +46,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"RAHMANI-MD",
+      "value":"𝚁𝚊𝚑𝚖𝚊𝚗𝚒 𝙼𝚍",
       "required":false
 
     } ,
@@ -86,7 +86,7 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "RAHMANI"
+    "value": "𝚁𝚊𝚑𝚖𝚊𝚗𝚒 𝙼𝚍"
   },
     "NUMERO_OWNER":
   {
