@@ -44,7 +44,7 @@
 
 **❖ FOR SUPPORT RAHMANI-MD ❖**
  
-Stay Connected With The Uatest Updates By
+Stay Connected With The Latest Updates By
    <br>
   
 <a href="https://whatsapp.com/channel/0029VajweHxKQuJP6qnjLM31"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ᴡʜᴀᴛsᴀᴘᴘ%20ᴄʜᴀɴɴᴇʟ-red" alt="🔰 ᴊᴏɪɴ ᴍʏ ᴡʜᴀᴛsᴀᴘᴘ ɢʀᴏᴜᴘ ғᴏʀ ᴜᴘᴅᴀᴛᴇ 🔰" width="300"></a>
