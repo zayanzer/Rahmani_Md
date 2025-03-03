@@ -3,7 +3,7 @@
   
 
 
-<p align="𝗮𝗹𝘄𝗮𝘆𝘀 𝗤𝗔𝗥𝗧">                                                 ༒𝐑𝐀𝐇𝐌𝐀𝐍𝐈-𝐌𝐃༒
+<p align="center">                                                 ༒𝐑𝐀𝐇𝐌𝐀𝐍𝐈-𝐌𝐃༒
   
 
 </p>
@@ -17,11 +17,6 @@
 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=𝐓𝐇𝐈𝐒+𝐈𝐒+𝐑𝐀𝐇𝐌𝐀𝐍𝐈+𝐌𝐃+𝐌𝐀𝐈𝐃𝐄+𝐈𝐍+𝐓𝐀𝐍𝐙𝐀𝐍𝐈𝐀" alt="Typing SVG" /></a>
-
-
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
 
 #### SETUP  FORK 🌟
 
