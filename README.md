@@ -32,12 +32,8 @@
  
 
 
-[`PAIRING CODE`](https://criss-xbot-x15p.onrender.com/)
+[`PAIRING CODE`](https://rahmani-md-7xqe.onrender.com/)
  
-
-
-[`SCAN QR CODE`](https://criss-vevo.onrender.com/qr)
-
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
