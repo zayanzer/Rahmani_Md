@@ -1,5 +1,5 @@
 
-const { keith } = require("../keizzah/keith");
+const { Rahmani } = require("../rahmani/Md");
 const conf = require(__dirname + "/../set");
 const axios = require('axios');
 
@@ -70,7 +70,7 @@ keith({
   }
 });
 
-keith({
+rahmani({
   nomCom: "timezone",
   aliases: ["timee", "datee"],
   desc: "Check the current local time and date for a specified timezone.",
@@ -116,7 +116,7 @@ keith({
   }
 });
 
-keith({
+rahmani({
   nomCom: "color",
   aliases: ["rcolor", "colorcode"],
   desc: "Generate a random color with name and code.",
@@ -142,7 +142,7 @@ keith({
 });
 
 
-keith({
+rahmani({
   nomCom: "binary",
   aliases: ["binarydgt", "binarycode"],
   desc: "Convert text into binary format",
@@ -168,7 +168,7 @@ keith({
   }
 });
 
-keith({
+rahmani({
   nomCom: "dbinary",
   aliases: ["binarydecode", "decodebinary"],
   desc: "Decode binary string into text.",
@@ -195,7 +195,7 @@ keith({
   }
 });
 
-keith({
+rahmani({
   nomCom: "base64",
   aliases: ["base64encode", "encodebase64"],
   desc: "Encode text into Base64 format.",
@@ -221,7 +221,7 @@ keith({
   }
 });
 
-keith({
+rahmani({
   nomCom: "unbase64",
   aliases: ["base64decode", "decodebase64"],
   desc: "Decode Base64 encoded text.",
@@ -247,7 +247,7 @@ keith({
   }
 });
 
-keith({
+rahmani({
   nomCom: "urlencode",
   aliases: ["urlencode", "encodeurl"],
   desc: "Encode text into URL encoding.",
@@ -273,7 +273,7 @@ keith({
   }
 });
 
-keith({
+rahmani({
   nomCom: "urldecode",
   aliases: ["decodeurl", "urldecode"],
   desc: "Decode URL encoded text.",
@@ -297,7 +297,7 @@ keith({
   }
 });
 
-keith({
+rahmani({
   nomCom: "dice",
   aliases: ["rolldice", "diceroll", "roll"],
   desc: "Roll a dice (1-6).",
@@ -318,7 +318,7 @@ keith({
   }
 });
 
-keith({
+rahmani({
   nomCom: "coinflip",
   aliases: ["flipcoin", "coinflip"],
   desc: "Flip a coin and get Heads or Tails.",
@@ -339,7 +339,7 @@ keith({
   }
 });
 
-keith({
+rahmani({
   nomCom: "flip",
   aliases: ["fliptext", "textflip"],
   desc: "Flip the text you provide.",
@@ -365,7 +365,7 @@ keith({
   }
 });
 
-keith({
+rahmani({
   nomCom: "pick",
   aliases: ["choose", "select"],
   desc: "Pick between two choices.",
@@ -393,7 +393,7 @@ keith({
   }
 });
 
-keith({
+rahmani({
   nomCom: "time",
   aliases: ["currenttime", "time"],
   desc: "Check the current local time.",
@@ -424,7 +424,7 @@ keith({
 });
 
 
-keith({
+rahmani({
   nomCom: "date",
   aliases: ["currentdate", "todaydate"],
   desc: "Check the current date.",
@@ -454,7 +454,7 @@ keith({
 });
 
 
-keith({
+rahmani({
   nomCom: "calculate",
   aliases: ["calc", "maths", "math"],
   desc: "Evaluate a mathematical expression.",
@@ -486,7 +486,7 @@ keith({
   }
 });
 
-keith({
+rahmani({
   nomCom: "emojify",
   aliases: ["emoji", "txtemoji"],
   desc: "Convert text into emoji form.",
@@ -558,7 +558,7 @@ keith({
 
 
 
-keith({
+rahmani({
   nomCom: "news",
   aliases: ["latestnews", "newsheadlines"],
   desc: "Get the latest news headlines.",
