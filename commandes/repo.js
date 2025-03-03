@@ -39,17 +39,16 @@ const date = moment().format('DD/MM/YYYY');
 
 *GITHUB LINK*
 >https://github.com/Qartde/Rahmani_Md
-
 *CONTACT OWNER*
 > https://wa.me/255693629079
 
-*WHATSAPP CHANNEL*
->https://whatsapp.com/channel/0029VavShWD1iUxb6kjV6K2T
+*WHATSAPP GROUP*
+>https://chat.whatsapp.com/D3dnvm4vsn9HafO6wkqnzF
 ⁠
 ╭───────────────────❒
  │❒⁠⁠⁠⁠ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
- │❒⁠⁠⁠⁠ *DEV1* : *Criss Vevo*
- │❒⁠⁠⁠⁠ *DEV2* : *Criss tech*
+ │❒⁠⁠⁠⁠ *DEV1* : *Rahmani Md*
+ │❒⁠⁠⁠⁠ *DEV2* : *Rahmani tech*
 ⁠⁠⁠⁠╰───────────────────❒
   `;
     
