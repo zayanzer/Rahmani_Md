@@ -71,8 +71,8 @@ zokou({ nomCom: "menu", categorie: "Menu" }, async (dest, zk, commandeOptions) =
                 externalAdReply: {
                     title: "𝗥𝗔𝗛𝗠𝗔𝗡𝗜 𝗠𝗗",
                     body: "Tap here my friend join channel update",
-                    thumbnailUrl: "https://files.catbox.moe/aktbgo.jpg",
-                    sourceUrl: "https://whatsapp.com/channel/0029VavShWD1iUxb6kjV6K2T",
+                    thumbnailUrl: "https://whatsapp.com/channel/0029VajweHxKQuJP6qnjLM31",
+                    sourceUrl: "https://whatsapp.com/channel/0029VajweHxKQuJP6qnjLM31",
                     mediaType: 1,
                     renderLargerThumbnail: true
                 }
