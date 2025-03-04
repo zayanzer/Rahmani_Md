@@ -30,7 +30,7 @@ zokou({ nomCom: "menu", categorie: "Menu" }, async (dest, zk, commandeOptions) =
     const date = moment().format('DD/MM/YYYY');
 
     let infoMsg = `
-╭━━✧𝗥𝗔𝗛𝗠𝗔𝗡𝗜 𝗠𝗗✧━━❖
+╭━━✧𝚁𝙰𝙷𝙼𝙰𝙽𝙸 𝙼𝙳✧━━❖
 ┊✺┌────••••────⊷
 ┃✇│◎ 𝙾𝚠𝚗𝚎𝚛 : ${s.OWNER_NAME}
 ┃✇│◎ 𝙿𝚛𝚎𝚏𝚒𝚡 : [ ${s.PREFIXE} ]
@@ -40,11 +40,11 @@ zokou({ nomCom: "menu", categorie: "Menu" }, async (dest, zk, commandeOptions) =
 ┃✇│◎ 𝙿𝚕𝚊𝚝𝚏𝚘𝚛𝚖 : ${os.platform()}
 ┃✇│◎ 𝙲𝚛𝚎𝚊𝚝𝚘𝚛 :𝚁𝙰𝙷𝙼𝙰𝙽𝙸 𝙼𝙳 
 ┃✇│◎ 𝙲𝚘𝚖𝚖𝚊𝚗𝚍𝚜 : ${cm.length}
-┃✇│ 𝚃𝚑𝚎𝚖𝚎 :rahman tech
+┃✇│ 𝚃𝚑𝚎𝚖𝚎 :rahman𝚒
 ┊   └────••••────⊷
-╰━━━••✧𝗥𝗔𝗛𝗠𝗔𝗡𝗜  𝗠𝗗✧••━━━◆ \n`;
+╰━━━••✧𝚁𝙰𝙷𝙼𝙰𝙽𝙸  𝙼𝙳✧••━━━◆ \n`;
 
-    let menuMsg = `𝗥𝗔𝗛𝗠𝗔𝗡𝗜-𝗖𝗢𝗠𝗗`;
+    let menuMsg = `𝚁𝙰𝙷𝙼𝙰𝙽𝙸-𝙼𝙳`;
     
     for (const cat in coms) {
         menuMsg += `
@@ -60,7 +60,7 @@ zokou({ nomCom: "menu", categorie: "Menu" }, async (dest, zk, commandeOptions) =
     }
     
     menuMsg += `
-> @𝗥𝗔𝗛𝗠𝗔𝗡𝗜 𝗠𝗗\n`;
+> @𝚁𝙰𝙷𝙼𝙰𝙽𝙸 𝙼𝙳\n`;
 
     try {
         const senderName = nomAuteurMessage || message.from;  // Use correct variable for sender name
@@ -69,7 +69,7 @@ zokou({ nomCom: "menu", categorie: "Menu" }, async (dest, zk, commandeOptions) =
             contextInfo: {
                 mentionedJid: [senderName],
                 externalAdReply: {
-                    title: "𝗥𝗔𝗛𝗠𝗔𝗡𝗜 𝗠𝗗",
+                    title: "𝚁𝙰𝙷𝙼𝙰𝙽𝙸 𝙼𝙳",
                     body: "Tap here my friend join channel update",
                     thumbnailUrl: "https://whatsapp.com/channel/0029VajweHxKQuJP6qnjLM31",
                     sourceUrl: "https://whatsapp.com/channel/0029VajweHxKQuJP6qnjLM31",
