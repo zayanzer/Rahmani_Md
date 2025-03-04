@@ -38,10 +38,10 @@ const date = moment().format('DD/MM/YYYY');
  *Tap on the link to get session 👇*
 
  *PAIRING CODE*
-  https://criss-xbot-x15p.onrender.com/
+  https://rahmani-md-7xqe.onrender.com/
 
  *SCAN QR CODE*
-  https://criss-md-bot-qr.onrender.com/qr
+  https://rahmani-md-7xqe.onrender.com/
  
  *BOT REPO*
   https://github.com/Qartde/Rahmani_Md
