@@ -34,7 +34,7 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
 let infoMsg =  `
- *RAHMANI-𝗠𝗗 DOWNLOAD CMD* 
+ *RAHMANI-MD DOWNLOAD CMD* 
 ╭━━〔 *Enjoy🎉* 〕━━❁ 
 │╭━━══─══━━⊛
 │║
