@@ -1,8 +1,8 @@
 {
-  "name":"𝐊𝐈𝐍𝐆 𝐑𝐀𝐇𝐌𝐀𝐍𝐈-𝐌𝐃",
-  "description":"Best whatsapp bot developed by 𝐑𝐀𝐇𝐌𝐀𝐍𝐈-𝐌𝐃 ",
+  "name":"꧁ঔ☬۝𝐙𝐀𝐘𝐀𝐍𝐅𝐎𝐔𝐑𝐅𝐈𝐍𝐆𝐄𝐑𝐒۝☬ঔ꧂",
+  "description":"Best whatsapp bot developed by ꧁ঔ☬۝𝐙𝐀𝐘𝐀𝐍𝐅𝐎𝐔𝐑𝐅𝐈𝐍𝐆𝐄𝐑𝐒۝☬ঔ꧂ ",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://files.catbox.moe/aktbgo.jpg",
+  "logo":"https://files.catbox.moe/ax92lq.jpg",
   "repository":"https://github.com/Qartde/Rahmani_Md",
   "succes_url":"/",
   "stack":"container",
@@ -17,13 +17,13 @@
     {
       "description":"Enter yes for your bot to auto delete links and remove link senders",
       "value":"yes",
-      "required":false
+      "required":true
     },
     "AUTO_READ_STATUS":
     {
       "description":"Your contact status will be read automatically(type yes to active or no to deactive  ; don't write in capital letter)",
       "value":"yes",
-      "required":false
+      "required":true
 	},
     "AUTO_REACT_STATUS": {
       "description": "Your contact status will be react automatically (type 'yes' to activate or 'no' to deactivate; don't write in capital letters)",
@@ -33,7 +33,7 @@
     {
       "description":"Your contact status will be download automatically and send to you(type yes to active or no to deactive ; don't write in capital letter)",
       "value":"no",
-      "required":false
+      "required":true
     }
     ,
      "PM_PERMIT" :
@@ -46,22 +46,22 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"𝚁𝚊𝚑𝚖𝚊𝚗𝚒 𝙼𝚍",
-      "required":false
+      "value":"꧁ঔ☬۝𝐙𝐀𝐘𝐀𝐍𝐅𝐎𝐔𝐑𝐅𝐈𝐍𝐆𝐄𝐑𝐒۝☬ঔ꧂",
+      "required":true
 
     } ,
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://files.catbox.moe/aktbgo.jpg",
-      "required":false
+      "value":"https://files.catbox.moe/ax92lq.jpg",
+      "required":true
        
      },
     "PUBLIC_MODE":
     {
       "description":"type yes to put your bot on public mode or no to put it on private mod",
-      "value":"yes",
-      "required":false
+      "value":"no",
+      "required":true
     }
 	,
     "HEROKU_API_KEY": {
@@ -77,7 +77,7 @@
     "SESSION_ID":
     {
       "description":"put your session ID , the code you receive after scanning Qr code",   
-      "value":"",
+      "value":"eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiY0tla25pSEQyTGxRVkJ6Z1lLUUxEZFNvNWZkN3JqRXpDcjd6b3NjeHRWaz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoib1JEbU9yWUxsRm1WNmtveFFkYkZpQThkcXUxZ29YSjdoMGVwOFVwNG1GVT0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJBTDlyanprTTFRMXJ1SjltWXRrQzlTd2ZXL3hvT2NmOU15Qlg3eWxJeGxNPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJFUTVPVE5lZjNzTkh3bC9qV0EyL1J4ZHcxNWtQdFp4Y094Rk1DN0dSd1RBPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6InlINUxyWGs1a3Q2MnlaUEljRnF1UmRLV3M3bVdSSHpjM3dyaGpydmp5MmM9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IjlGLzRzVUY2cDZEYS95VXNuMFJGZGozK0JQdkQvQmpFdXZhc0VDZ1F4V3M9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiK0JmMTBNZTJZdTBiYnozMTRYNElrMU14WW83ZVQzcnFudzhuYWdJWFhIMD0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiSGxFV0o0ei8vMkZyY05QQkI3S2JoS3B4Rm9UZ3UzSUV0T2hNeWtCVUVFaz0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6ImhqM3Z1UFBTL1RlRXRlWFE5RFZrWExNV013U2M5aVFPRENCd3VXYy9lZ3dHZ2oraS9tOFZITG5CL2RqMHFGS1ZkQzE0QXE2WmtBYXhKYjV2Wkw1dURnPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MjU1LCJhZHZTZWNyZXRLZXkiOiI0RzRDUDQ4YWF2ZG5DZ3FTV04ySjR1TGFIRlE1WFpQY2NSYlVsWi9sMXNJPSIsInByb2Nlc3NlZEhpc3RvcnlNZXNzYWdlcyI6W10sIm5leHRQcmVLZXlJZCI6MzEsImZpcnN0VW51cGxvYWRlZFByZUtleUlkIjozMSwiYWNjb3VudFN5bmNDb3VudGVyIjowLCJhY2NvdW50U2V0dGluZ3MiOnsidW5hcmNoaXZlQ2hhdHMiOmZhbHNlfSwiZGV2aWNlSWQiOiJxbnlKdG82TFNzbWx2MDRwVW5jbm13IiwicGhvbmVJZCI6IjgzNGQxNjhiLWNmZWQtNGVjYi04MmQxLTBhNDY2Y2RjNzY5YiIsImlkZW50aXR5SWQiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJ6RkNxNGU4UmlhWGJCSDNGWXVhNVBwaEVaYm89In0sInJlZ2lzdGVyZWQiOnRydWUsImJhY2t1cFRva2VuIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiUTlodklzMjlBZE1aSTRKNHV3ZUE1OWpOOXRFPSJ9LCJyZWdpc3RyYXRpb24iOnt9LCJwYWlyaW5nQ29kZSI6IkszM1hLTDFBIiwibWUiOnsiaWQiOiI2MDExMTc1MDg1MjU6ODVAcy53aGF0c2FwcC5uZXQifSwiYWNjb3VudCI6eyJkZXRhaWxzIjoiQ1BiTmtLZ0VFSkx4dzc0R0dBVWdBQ2dBIiwiYWNjb3VudFNpZ25hdHVyZUtleSI6ImZBTlJxVThBVytDcWhsVWVyMm5oa0VSK0dqTzkrd2Jvb2J3ZFZuVEUwRkU9IiwiYWNjb3VudFNpZ25hdHVyZSI6InhLaGpzS0ZFbTBxM3Q2TTE2alZ5UmNHeHJMVWE4SGZPTzUwUGlEQ0RKelJwcmFyTjIwbXlWS250VG94eEM0ZW9mdEV2MVVyOGgvdXVMTlNuVkJJdEFBPT0iLCJkZXZpY2VTaWduYXR1cmUiOiI5K2J1VHJTNlFURTR0TjNCS0hBQit2bnlRc0s1VmMxRUMzTmR1NWNBV2tKZDFHcnFrRTdxUndSV1BwUmM2OTNKT1lkUVNQR1RNdndBWHd1VFZhOVlEUT09In0sInNpZ25hbElkZW50aXRpZXMiOlt7ImlkZW50aWZpZXIiOnsibmFtZSI6IjYwMTExNzUwODUyNTo4NUBzLndoYXRzYXBwLm5ldCIsImRldmljZUlkIjowfSwiaWRlbnRpZmllcktleSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkJYd0RVYWxQQUZ2Z3FvWlZIcTlwNFpCRWZob3p2ZnNHNktHOEhWWjB4TkJSIn19XSwicGxhdGZvcm0iOiJhbmRyb2lkIiwibGFzdEFjY291bnRTeW5jVGltZXN0YW1wIjoxNzQxNzQ4MzgzLCJteUFwcFN0YXRlS2V5SWQiOiJBQUFBQUx5VSJ9",
       "required":true
       
     },
